@@ -1,0 +1,25 @@
+{
+  "name": "cli-chords",
+  "version": "0.1.0",
+  "description": "A CLI app to get chords from Songsterr public API.",
+  "main": "bin/chords",
+  "files": [
+    "bin",
+    "package.json",
+    "README.md",
+    "lib"
+  ],
+  "author": "Helio Frota",
+  "repository": {
+    "type": "git",
+    "url": "helio-frota/cli-chords"
+  },
+  "dependencies": {
+    "roi": "^0.16.1"
+  },
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "chords": "./bin/chords"
+  }
+}
