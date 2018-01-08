@@ -15,7 +15,7 @@
     "url": "helio-frota/cli-chords"
   },
   "dependencies": {
-    "roi": "^0.16.1"
+    "roi": "^0.17.0"
   },
   "license": "MIT",
   "preferGlobal": true,
