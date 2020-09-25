@@ -2,13 +2,14 @@
 
 A CLI app to get chords from [Songsterr public API](https://www.songsterr.com/a/wa/api/).
 
-### Install
+### Install and usage
 
 ```console
-$ npm install cli-chords -g
+$ npm run build
+$ node build/cli.js --artist foobar
 ```
 
-### Usage
+### Previous way usage before migrate to TypeScript:
 
 ![Alt 1](https://github.com/helio-frota/cli-chords/raw/master/01.png)
 
