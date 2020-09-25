@@ -4,10 +4,7 @@
   "description": "A CLI app to get chords from Songsterr public API.",
   "main": "build/cli.js",
   "files": [
-    "bin",
-    "package.json",
-    "README.md",
-    "lib"
+    "build"
   ],
   "scripts": {
     "build": "tsc",
