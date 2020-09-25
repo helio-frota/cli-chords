@@ -5,8 +5,8 @@ A CLI app to get chords from [Songsterr public API](https://www.songsterr.com/a/
 ### Install and usage
 
 ```console
-$ npm run build
-$ node build/cli.js --artist foobar
+$ npm i cli-chords -g
+$ chords --artist foobar
 ```
 
 ### Previous way usage before migrate to TypeScript:
