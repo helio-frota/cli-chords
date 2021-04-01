@@ -11,8 +11,8 @@ $ chords --artist foobar
 
 ### Previous way usage before migrate to TypeScript:
 
-![Alt 1](https://github.com/helio-frota/cli-chords/raw/master/01.png)
+![Alt 1](./01.png)
 
 
-![Alt 2](https://github.com/helio-frota/cli-chords/raw/master/02.png)
+![Alt 2](./02.png)
 
