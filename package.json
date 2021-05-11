@@ -22,7 +22,7 @@
     "url": "helio-frota/cli-chords"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "yargs": "^16.0.3"
   },
   "license": "MIT",
